@@ -18,4 +18,4 @@ TabVault does **not collect**, store, or share any personal information from its
 
 This extension exists solely to help you **save and restore your browser tabs** easily.
 
-If you have any questions, feel free to contact: **[your-email@example.com]**
+If you have any questions, feel free to contact: pochampelliashwitha@gmail.com
